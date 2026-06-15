@@ -1,8 +1,8 @@
 {
-  "title": "Scathach Two Source RIFE Interpolated Loop",
-  "description": "Looping 2160p60 6s wallpaper using dense RIFE interpolation between two 4K source frames, with A-B-A keyframes, animated expression transition, source-gated red glow, and no artificial red bands.",
+  "title": "Scathach Two Source RIFE Interpolated Loop V2",
+  "description": "Looping 2160p60 4s wallpaper using trimmed two-segment RIFE motion, headscarf temporal smoothing, right hair detail restoration, and source-gated red glow.",
   "type": "video",
-  "file": "scathach_two_source_rife_interpolated_2160p60_6s.mp4",
+  "file": "scathach_two_source_rife_interpolated_2160p60_4s_v2.mp4",
   "preview": "preview.jpg",
   "tags": [
     "Anime"
