@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.codex_deps/
+.superpowers/
+outputs/
+docs/
+AGENTS.md
+images_3840x2160.zip
+ChatGPT Image*.png
+*.log
+make_scathach_wallpaper*.py
+!make_scathach_wallpaper_two_source_rife_interpolated.py
+postprocess_*.py
+test_*.py
+!test_two_source_rife_interpolated.py
+wallpaper_engine_scathach/*.mp4
+!wallpaper_engine_scathach/scathach_two_source_rife_interpolated_2160p60_6s.mp4
