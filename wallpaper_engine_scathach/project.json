@@ -1,11 +1,11 @@
 {
-  "title": "Scathach Two Source RIFE Interpolated Loop V6 Highpass Deghost",
-  "description": "Looping 2160p60 4s wallpaper using v4 motion plus high-frequency source detail replacement for faint edge trails.",
+  "file": "scathach_two_source_rife_interpolated_2160p60_4s_v8_source_locked.mp4",
+  "title": "Scathach two-source source-locked 4K RIFE loop",
   "type": "video",
-  "file": "scathach_two_source_rife_interpolated_2160p60_4s_v6_highpass_deghost.mp4",
-  "preview": "preview.jpg",
   "tags": [
     "Anime"
   ],
-  "visibility": "private"
+  "visibility": "private",
+  "description": "4K 60 fps two-source loop with source-locked body/weapon reconstruction to avoid interpolation trails.",
+  "preview": "preview.jpg"
 }

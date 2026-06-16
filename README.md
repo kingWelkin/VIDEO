@@ -4,6 +4,7 @@ Dense A-B-A RIFE interpolation workflow for a looping Wallpaper Engine video wal
 
 ## Output
 
+- `wallpaper_engine_scathach/scathach_two_source_rife_interpolated_2160p60_4s_v8_source_locked.mp4`
 - `wallpaper_engine_scathach/scathach_two_source_rife_interpolated_2160p60_4s_v6_highpass_deghost.mp4`
 - `wallpaper_engine_scathach/scathach_two_source_rife_interpolated_2160p60_4s_v5_deghost.mp4`
 - `wallpaper_engine_scathach/scathach_two_source_rife_interpolated_2160p60_4s_v4_plate.mp4`
@@ -13,8 +14,8 @@ Dense A-B-A RIFE interpolation workflow for a looping Wallpaper Engine video wal
 - `wallpaper_engine_scathach/project.json`
 - `wallpaper_engine_scathach/preview.jpg`
 
-The current Wallpaper Engine project points to the v6 highpass deghost video: 3840x2160, 60 fps, 4 seconds, 240 frames.
-The earlier accepted 6 second, v2, v3, v4, and v5 versions are kept in the same project folder.
+The current Wallpaper Engine project points to the v8 source-locked video: 3840x2160, 60 fps, 4 seconds, 240 frames.
+The earlier accepted 6 second, v2, v3, v4, v5, and v6 versions are kept in the same project folder.
 
 ## Rebuild
 
@@ -66,6 +67,12 @@ Run v6:
 & 'C:\Users\Donghao\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' .\make_scathach_wallpaper_two_source_rife_interpolated_v6.py --mode all
 ```
 
+Run v8 source-locked:
+
+```powershell
+& 'C:\Users\Donghao\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' .\make_scathach_wallpaper_two_source_rife_interpolated_v8.py --mode video
+```
+
 Run tests:
 
 ```powershell
@@ -75,4 +82,5 @@ Run tests:
 & 'C:\Users\Donghao\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m unittest .\test_two_source_rife_interpolated_v4.py
 & 'C:\Users\Donghao\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m unittest .\test_two_source_rife_interpolated_v5.py
 & 'C:\Users\Donghao\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m unittest .\test_two_source_rife_interpolated_v6.py
+& 'C:\Users\Donghao\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' -m unittest .\test_two_source_rife_interpolated_v8.py
 ```
