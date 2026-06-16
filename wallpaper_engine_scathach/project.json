@@ -1,11 +1,11 @@
 {
-  "file": "scathach_two_source_rife_interpolated_2160p60_4s_v8_source_locked.mp4",
-  "title": "Scathach two-source source-locked 4K RIFE loop",
+  "title": "Scathach Two Source RIFE Interpolated Loop V9 Strap Overlay",
+  "description": "Looping 2160p60 4s wallpaper using the v6 RIFE base plus a clean extracted black strap/decor overlay to suppress faint double-line trails.",
   "type": "video",
+  "file": "scathach_two_source_rife_interpolated_2160p60_4s_v9_strap_overlay.mp4",
+  "preview": "preview.jpg",
   "tags": [
     "Anime"
   ],
-  "visibility": "private",
-  "description": "4K 60 fps two-source loop with source-locked body/weapon reconstruction to avoid interpolation trails.",
-  "preview": "preview.jpg"
+  "visibility": "private"
 }
